@@ -3,6 +3,6 @@ hooktesting
 
 Sample project to test github webhooks.
 
-Thanks!
+Thanks, John!
 
 (c) LNS 2014
